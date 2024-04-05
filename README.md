@@ -1,4 +1,4 @@
-![Texto alternativo]([URL-do-seu-GIF](https://github.com/MendoncaMs/MendoncaMs/blob/main/testegif.svg)
+![Texto alternativo](https://github.com/MendoncaMs/MendoncaMs/blob/main/testegif.svg)
 
 
 - 👀 I’m interested in Data Science
