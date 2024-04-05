@@ -1,4 +1,4 @@
-![Texto alternativo]([URL-do-seu-GIF](Olá, bem vindo ao meu git!.gif)
+![Texto alternativo](Olá, bem vindo ao meu git!.gif)
 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science and Machine Learning
