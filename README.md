@@ -1,3 +1,4 @@
+![Texto alternativo](URL-do-seu-GIF)
 
 
 - 👀 I’m interested in Data Science
