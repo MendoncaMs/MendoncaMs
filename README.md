@@ -1,4 +1,4 @@
-![Texto alternativo](Olá, bem vindo ao meu git!.gif)
+![Texto alternativo](https://github.com/MendoncaMs/MendoncaMs/blob/main/Ol%C3%A1%2C%20bem%20vindo%20ao%20meu%20git!.gif))
 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science and Machine Learning
