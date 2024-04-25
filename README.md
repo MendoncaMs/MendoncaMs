@@ -6,7 +6,7 @@
 - 📫 How to reach me mendonca.cardozo@gmail.com
 
 ## Sobre Mim
-Especialista em Análise de Dados com foco em análise preditiva, prescritiva e descritiva. Utilizo R e Python para extrair insights de grandes conjuntos de dados, aplicando modelos estatísticos e algoritmos de machine learning para informar decisões de negócios. Com experiência em liderar a transformação de dados em soluções estratégicas em diversos segmentos, tenho habilidades avançadas em plataformas de BI como Cognos Analytics, Grafana, Power BI, e MicroStrategy.
+Atuante em Engenharia de Dados e em Análise de Dados com foco. Domínio em modelagem relacional, dimensional, ETL, bancos de dados, aws, azure. Proficiência em análise preditiva, prescritiva e descritiva. Utilizo R e Python para extrair insights de grandes conjuntos de dados, aplicando modelos estatísticos e algoritmos de machine learning para informar decisões de negócios. Com experiência em liderar a transformação de dados em soluções estratégicas em diversos segmentos, tenho habilidades avançadas em plataformas de BI como Cognos Analytics, Grafana, Power BI, e MicroStrategy.
 
 ## Educação
 - Ciência de Dados (Previsão de Conclusão 2024)
@@ -25,6 +25,7 @@ Especialista em Análise de Dados com foco em análise preditiva, prescritiva e 
 - Proficiência em R e Python
 - Avançada em Power BI, Cognos Analytics, Grafana
 - Gestão de Bancos de Dados: InfluxDB, Oracle, SQL Server, MySQL
+- Construção de DW e implantação de modelo de ingestão de dados
 
 ## Certificações
 - DP-900 Microsoft Azure Data Fundamentals
