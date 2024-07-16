@@ -69,7 +69,7 @@ Apache Storm
 
 Tableau
 Power BI
-Looker
+Qlik Sense
 Grafana
 
 - Ferramentas de Análise de Dados:
