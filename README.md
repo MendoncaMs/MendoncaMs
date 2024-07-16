@@ -21,11 +21,99 @@ Atuante em Engenharia de Dados e em Análise de Dados com foco. Domínio em mode
 - Centro de Operações da Cidade do Rio de Janeiro – Analista de Processos
 
 ## Skills Técnicos
-- Ciência de Dados, Machine Learning, ETL, Integração de Dados
-- Proficiência em R e Python
-- Avançada em Power BI, Cognos Analytics, Grafana
-- Gestão de Bancos de Dados: InfluxDB, Oracle, SQL Server, MySQL
-- Construção de DW e implantação de modelo de ingestão de dados
+
+- Linguagens de Programação:
+
+Python
+Java
+SQL
+My SQL
+R
+
+- Bancos de Dados:
+
+SQL (MySQL, PostgreSQL, SQL Server)
+NoSQL (MongoDB, Cassandra, Redis)
+Data Warehousing (Amazon Redshift, Google BigQuery, Snowflake)
+
+- Plataformas de Big Data:
+
+Hadoop
+Spark
+Hive
+Kafka
+
+- Ferramentas de ETL (Extract, Transform, Load):
+
+Power Center
+Talend
+Databrix
+Airflow
+
+- Cloud Computing:
+
+AWS (Redshift, S3, Lambda, EMR)
+Google Cloud Platform (BigQuery, Dataflow, Pub/Sub)
+Microsoft Azure (Azure Data Lake, Azure Data Factory, Cosmos DB)
+
+- Ferramentas de Data Pipeline:
+
+Apache Beam
+Apache Flink
+Apache Storm
+
+
+2. Habilidades de Análise e Visualização de Dados
+
+ - Ferramentas de BI:
+
+Tableau
+Power BI
+Looker
+Grafana
+
+- Ferramentas de Análise de Dados:
+
+Pandas
+NumPy
+Matplotlib
+
+
+3. Habilidades de Arquitetura e Design
+
+- Design de Bancos de Dados:
+
+Normalização
+Modelagem Dimensional e Relacional
+Data Vault
+
+- Arquitetura de Dados:
+
+Data Lakes
+Data Warehousing
+
+
+Ferramentas de Versionamento e Controle de Código:
+
+Git
+GitHub
+Bitbucket
+
+5. Habilidades de Gerenciamento de Dados
+- Data Governance:
+
+Segurança de Dados
+Privacidade de Dados
+Qualidade de Dados
+
+- Gerenciamento de Metadados:
+
+Catálogos de Dados
+Linhagem de Dados
+
+6. Habilidades de Soft Skills
+
+
 
 ## Certificações
 - DP-900 Microsoft Azure Data Fundamentals
