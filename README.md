@@ -22,6 +22,8 @@ Atuante em Engenharia de Dados e em Análise de Dados com foco. Domínio em mode
 
 ## Skills Técnicos
 
+1. Habilidades Técnicas
+   
 - Linguagens de Programação:
 
 Python
@@ -111,9 +113,7 @@ Qualidade de Dados
 Catálogos de Dados
 Linhagem de Dados
 
-6. Habilidades de Soft Skills
-
-
+ 
 
 ## Certificações
 - DP-900 Microsoft Azure Data Fundamentals
