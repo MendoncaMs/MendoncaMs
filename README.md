@@ -101,7 +101,7 @@ Git
 GitHub
 Bitbucket
 
-5. Habilidades de Gerenciamento de Dados
+4. Habilidades de Gerenciamento de Dados
 - Data Governance:
 
 Segurança de Dados
