@@ -125,7 +125,6 @@ Linhagem de Dados
 - Oracle Cloud Infrastructure AI Foundations
 
 ## Idiomas
-- Português: Nativo
 - Inglês: Técnico
 - Espanhol: Técnico
 
