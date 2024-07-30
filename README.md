@@ -9,10 +9,10 @@
 Atuante em Engenharia de Dados e em Análise de Dados com foco. Domínio em modelagem relacional, dimensional, ETL, bancos de dados, aws, azure. Proficiência em análise preditiva, prescritiva e descritiva. Utilizo R e Python para extrair insights de grandes conjuntos de dados, aplicando modelos estatísticos e algoritmos de machine learning para informar decisões de negócios. Com experiência em liderar a transformação de dados em soluções estratégicas em diversos segmentos, tenho habilidades avançadas em plataformas de BI como Cognos Analytics, Grafana, Power BI, e MicroStrategy.
 
 ## Educação
-- Ciência de Dados (Previsão de Conclusão 2024)
-- Pós-Graduação em Análise de Dados e Machine Learning (Concluído)
-- Extensões em Planejamento Estratégico, Metodologia Ágil e Gestão de Processos
-
+- Graduação em Ciência de Dados 
+- Pós-Graduação em Análise de Dados e Machine Learning
+- Pós-Graduação emMachine Learning e IA 
+  
 ## Experiência Profissional
 - TST (Empresa de Transportes de Passageiros Portugal) – Analista de Dados
 - Stefanini (Empresa de Suporte de TI Projeto SENAC) – Analista de Dados
