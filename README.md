@@ -6,7 +6,18 @@
 - 📫 How to reach me mendonca.cardozo@gmail.com
 
 ## Sobre Mim
-Atuante em Engenharia de Dados e em Análise de Dados com foco. Domínio em modelagem relacional, dimensional, ETL, bancos de dados, aws, azure. Proficiência em análise preditiva, prescritiva e descritiva. Utilizo R e Python para extrair insights de grandes conjuntos de dados, aplicando modelos estatísticos e algoritmos de machine learning para informar decisões de negócios. Com experiência em liderar a transformação de dados em soluções estratégicas em diversos segmentos, tenho habilidades avançadas em plataformas de BI como Cognos Analytics, Grafana, Power BI, e MicroStrategy.
+- Domínio em modelagem de repositórios de dados [DW] , construção e implementação de
+processos de extração, transformação e carga de dados [ETL], projeto e implementação de
+aplicações de automação, processamento de dados massivos, análise da qualidade de dados
+e criação e evolução de painéis de Business Intelligence em plataformas de DataViz.
+- Análise , desenho/modelagem de painéis e criação de KPI’s para identificar tendências de
+negócios e de mercado.
+- Documentação de todo o processo de estruturação e implementação de projetos.
+- Participação em projetos orientados por metodologia Ágil e Kanban.
+- Análise de requisitos.
+- Integração de dados de diferentes origens.Experiência com plataformas de integração de
+dados.
+- Habilidades em plataformas de BI como Cognos Analytics, Grafana, Power BI, e MicroStrategy.
 
 ## Educação
 - Graduação em Ciência de Dados 
